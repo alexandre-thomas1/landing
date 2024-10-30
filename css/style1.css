@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("https://img.freepik.com/photos-gratuite/famille-leur-petite-fille-dans-champ-automne_1303-17368.jpg?t=st=1730288858~exp=1730292458~hmac=c22fe9ae756437d55dfbb31b56e61977c2137a4528d38124c705f14031b7b4da&w=1800");
+
+body {
+	font-family: "Lora", serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+}
+
+
+
+a {
+	text-decoration: none;
+}
